@@ -1,8 +1,9 @@
-![AlmggmlA GitHub stats](https://github-readme-stats.vercel.app/api?username=almggmla&show_icons=true)
+![AlmggmlA GitHub stats](https://github-readme-stats.vercel.app/api?username=almggmla&show_icons=true) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almggmla&layout=compact)](https://github.com/almggmla/github-readme-stats)
 
 
 
-#### Languages:
+#### Preference Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white)
 #### Frameworks:
