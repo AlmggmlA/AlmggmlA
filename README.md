@@ -5,24 +5,41 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almggmla&layout=compact">
 </p>
+
+<p align="center">  
+  <a href="https://www.linkedin.com/in/apr%C3%ADgio-gusm%C3%A3o-07558815">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/aprigio.gusmao/?hl=pt-br">
+    <img src="https://img.shields.io/badge/aprigio.gusmao-%23E4405F.svg?logo=Instagram&logoColor=white">
+  </a>
+</p>
 </br>
+
+#### **`Frameworks:`**
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)
 
 #### **`Preference Languages:`**                                                                                                    
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white)
-#### **`Frameworks:`**
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)
+
+#### **`Version Control:`**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
+
 #### **`IDEs:`**
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?logo=spyder%20ide&logoColor=maroon)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+
 #### **`Databases:`**
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
+
 #### **`ML/DL:`**
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
@@ -30,17 +47,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)
-#### **`Version Control:`**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
-#### **`Social:`**
-<a href="https://www.linkedin.com/in/apr%C3%ADgio-gusm%C3%A3o-07558815">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/aprigio.gusmao/?hl=pt-br">
-  <img src="https://img.shields.io/badge/aprigio.gusmao-%23E4405F.svg?logo=Instagram&logoColor=white">
-</a></br>
-
 
 #### **`Gaming:`**
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)
