@@ -32,12 +32,16 @@
 #### Social:
 <a href="https://www.linkedin.com/in/apr%C3%ADgio-gusm%C3%A3o-07558815">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white">
-</a>
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)
+</a></br>
+
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)</br>
+
 <a href="https://www.instagram.com/aprigio.gusmao/?hl=pt-br">
   <img src="https://img.shields.io/badge/aprigio.gusmao-%23E4405F.svg?logo=Instagram&logoColor=white">
-</a>
+</a></br>
+
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
+
 #### Gaming:
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?logo=ea&logoColor=white)
