@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almggmla&layout=compact">
 </p>
-
+</br>
 
 #### **`Preference Languages:`**                                                                                                    
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
