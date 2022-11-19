@@ -3,7 +3,7 @@
 
 
 
-#### Preference Languages:
+#### Preference Languages:                                                                                                      
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white)
 #### Frameworks:
@@ -30,15 +30,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 #### Social:
-
 <a href="https://www.linkedin.com/in/apr%C3%ADgio-gusm%C3%A3o-07558815">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white">
-</a></br>
-
+</a>
 <a href="https://www.instagram.com/aprigio.gusmao/?hl=pt-br">
   <img src="https://img.shields.io/badge/aprigio.gusmao-%23E4405F.svg?logo=Instagram&logoColor=white">
 </a></br>
-
 
 
 #### Gaming:
