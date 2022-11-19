@@ -34,13 +34,10 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white">
 </a></br>
 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)</br>
-
 <a href="https://www.instagram.com/aprigio.gusmao/?hl=pt-br">
   <img src="https://img.shields.io/badge/aprigio.gusmao-%23E4405F.svg?logo=Instagram&logoColor=white">
 </a></br>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
 
 #### Gaming:
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)
